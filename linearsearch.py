@@ -9,4 +9,4 @@ def linearsearch(arr,search):
         
 arr=list(map(int,input().split()))#initialising an array- take input from the user:enter input with giving space
 search=int(input("enter element to search:"))#input from user to enetr an element to search in the given array
-linearsearch(arr,search)#linear search function call with the parameters array and the search element
+linearsearch(arr,search)#linear search function call with the parameters array and the search element.
